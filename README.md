@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Health Prevention App
+Web-based tool with the aim of contributing in health prevention. It allows individuals to complete a survey that supply information about their health status, habits and their potential health risks. It provides a personalized risk report.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies used : 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" title="Styled" alt="Styled" width="60" height="60"/>&nbsp;
+ <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" title="Formik" alt="Formik" width="60" height="60"/>&nbsp;
+ <img src="https://mui.com/static/logo.png" title="MUI" alt="MUI" width="60" height="60"/>&nbsp;
+ 
 
-## Available Scripts
+## First time 
+If you just registered in the application, you will find the possible to choose your avatar and select your doctor. 
+![image](https://user-images.githubusercontent.com/100126834/221558284-01e68856-f756-4c14-8c39-eb74fef0e16a.png)
 
-In the project directory, you can run:
+## First Quiz 
+Here you can click new survey to take your first survey
+![image](https://user-images.githubusercontent.com/100126834/221559350-13549bcf-6c26-418b-a400-7bad540393b7.png)
+Then you will find your results. 
 
-### `npm start`
+## Results 
+Here's you can see your results based on the information you provided during the survey
+![results](https://user-images.githubusercontent.com/100126834/225055550-ec544521-00fe-4ca2-a46a-df5548a42b45.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Historic
+If you want to go back to your former surveys 
+![historic](https://user-images.githubusercontent.com/100126834/225055839-f11fb69e-dd70-4526-868d-7053e7a73e14.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Dark mode preview
+We implemented a dark mode possibility for all the pages, here's the dark mode for the account page. 
+![dark_mode](https://user-images.githubusercontent.com/100126834/225056318-73a547f1-68f4-48cb-9417-e797989dde67.png)
